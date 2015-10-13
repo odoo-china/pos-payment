@@ -31,8 +31,8 @@
     'author': 'Odoo CN Community, Jeffery <jeffery9@gmail.com>',
     'depends': ['point_of_sale'],
     'data': [
-        'pos_payment_terminal.xml',
-        'pos_payment_terminal_view.xml',
+        'pos_payment.xml',
+        'pos_payment_view.xml',
         ],
     'installable': True,
 
